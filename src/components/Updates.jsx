@@ -29,7 +29,7 @@ const Updates = () => {
   ];
 
   return (
-    <main className='relative  '>
+    <main className='relative '>
     <div  className="bg-[url('/bg-2.jpg')] bg-cover inset-0 bg-center  w-full" >
     <div className='absolute bg-black/70 w-full h-full inset-0'/>
      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 text-white drop-shadow-2xl gap-6 p-20">
